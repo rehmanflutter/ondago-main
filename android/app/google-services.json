@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008739780669",
+    "project_id": "ondago-eeb0f",
+    "storage_bucket": "ondago-eeb0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008739780669:android:97f82586d871a6a77e8254",
+        "android_client_info": {
+          "package_name": "com.example.ondago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kaVfXee_ysS6bd2YwSFq7IGdTHu9Wjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
